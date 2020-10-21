@@ -1,0 +1,24 @@
+{
+  "name": "burger-app",
+  "version": "1.0.0",
+  "description": "A burger app for users to add to and remove burgers they would like to eat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanmackay/burger-app.git"
+  },
+  "author": "Evan Mackay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evanmackay/burger-app/issues"
+  },
+  "homepage": "https://github.com/evanmackay/burger-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "mysql": "^2.18.1"
+  }
+}
