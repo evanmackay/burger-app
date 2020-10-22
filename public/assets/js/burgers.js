@@ -25,7 +25,7 @@ $(function() {
       event.preventDefault();
   
       var newBurger = {
-        burger_name: $("#ca").val().trim(),
+        burger_name: $("#colFormLabelLg").val().trim(),
       };
   
       // Send the POST request.
